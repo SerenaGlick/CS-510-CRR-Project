@@ -2,6 +2,9 @@ Serena Glick (sglick), Winter 2022, CS 510 Code Revision & Review
 
 Critical Review Essay on the Original Oregon Trail Code from 1971
 
+Video Presentation Link:
+https://drive.google.com/file/d/1pYfi2FM59pUwfvfExu_CKdXV2W-vj0rJ/view?usp=sharing
+
 Part I - Introduction
 
 	The first computer game I ever played at school was in 1990.  I was in the 4th grade and it was “Oregon Trail II” on a blocky beige computer with a greenish screen, probably a Macintosh Classic.  We only had the one computer in the classroom so it was special experience whenever it was my turn to play.  Although I happened to be a child of two computer programmers and had been playing pixelated computer games since preschool (with that limited, vivid, magenta/cyan color scheme), this was the first time I played a video game that told a whole story, and it really made an impression on me.  
